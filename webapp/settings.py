@@ -27,7 +27,6 @@ SECRET_KEY = "django-insecure-u4laonv8bmldh&8mn#js6x3r74aedi9_&r9@-e#l^@_mz3zun)
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
 
 # Application definition
 
